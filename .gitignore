@@ -1,0 +1,11 @@
+# 비밀값: 절대 커밋하지 않음
+.env
+
+# DB 파일 (실주소 암호문이 들어감)
+*.db
+
+# Python
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
